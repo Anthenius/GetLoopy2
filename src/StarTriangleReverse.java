@@ -10,4 +10,4 @@ public class StarTriangleReverse {
         }
     }
 }
-//final
+//finals
